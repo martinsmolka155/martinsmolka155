@@ -19,17 +19,11 @@ Senior backend developer based in Olomouc, CZ. 10+ years in Ruby on Rails, the l
 **Infra:** Kamal, Docker, Linux (Hetzner + home GPU server)
 **Frontend:** Hotwire / Stimulus, React when needed
 
-## Public projects
-
-- **[commodity-sentiment-monitor](https://github.com/martinsmolka155/commodity-sentiment-monitor)** — real-time pipeline: audio streams → Whisper transcription → commodity entity extraction → directional sentiment scoring. Built under time pressure using Claude Code multi-agent orchestration.
-- **[job-fit-estimator](https://github.com/martinsmolka155/job-fit-estimator)** — 
 
 ## Production AI work (private)
 
 - **Veritel3** — RAG agent over contract and financial data (FastAPI, Claude API, ChromaDB). Production-deployed with strict data confidentiality constraints (no cloud LLMs for core SQL generation).
 - **Skillman.ai** — RAG chatbot over e-learning course content (Whisper transcription, ChromaDB, Gemini API), with animated mascot, multilingual TTS, and interactive onboarding.
-- **Lilith** — personal multi-agent AI assistant running on a home Linux server (Claude Code + mem0 + Qdrant + Telegram). Orchestrator + specialized agents for backend, frontend, DevOps, and QA.
-- **MealPlanner** — FastAPI app generating weekly meal plans with Rohlik.cz grocery integration and Whisper-based recipe extraction from TikTok / YouTube.
 
 ## Reach me
 
