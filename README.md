@@ -22,7 +22,7 @@ Senior backend developer based in Olomouc, CZ. 10+ years in Ruby on Rails, the l
 ## Public projects
 
 - **[commodity-sentiment-monitor](https://github.com/martinsmolka155/commodity-sentiment-monitor)** — real-time pipeline: audio streams → Whisper transcription → commodity entity extraction → directional sentiment scoring. Built under time pressure using Claude Code multi-agent orchestration.
-- **[job-fit-estimator](https://github.com/martinsmolka155/job-fit-estimator)** — [doplnit krátký popis: co to dělá, jaký LLM, k čemu jsi to postavil]
+- **[job-fit-estimator](https://github.com/martinsmolka155/job-fit-estimator)** — 
 
 ## Production AI work (private)
 
@@ -33,6 +33,5 @@ Senior backend developer based in Olomouc, CZ. 10+ years in Ruby on Rails, the l
 
 ## Reach me
 
-- LinkedIn: [doplnit URL]
-- Email: [doplnit]
+- LinkedIn: https://www.linkedin.com/in/martin-smolka-63b270a2/?skipRedirect=true
 - Based in Olomouc, CZ — open to remote across EU.
