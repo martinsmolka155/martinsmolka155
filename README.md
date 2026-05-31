@@ -7,9 +7,8 @@ Senior backend developer based in Olomouc, CZ. 10+ years in Ruby on Rails, the l
 ## Currently building
 
 - 🤖 **Production AI systems** — RAG agents over enterprise data (FastAPI, Claude API, ChromaDB, Qdrant), multi-agent orchestration, self-hosted inference.
-- 🏗️ **[SkillBaron](https://skillbaron.com)** — affiliate / creator marketing platform on Rails 8 + Hotwire + Solid Queue, deployed with Kamal.
 - 🛠️ **Backend at Skillmea** — CZ/SK e-learning platform, full backend life cycle from architecture to deployment.
-- 💻 **Daily driver: Claude Code (Max plan)** — custom multi-agent setup with orchestrator + specialized agents, autonomous workflows over GitHub Issues.
+- 💻 **Daily driver: Claude Code ** — custom multi-agent setup with orchestrator + specialized agents, autonomous workflows over GitHub Issues.
 
 ## Tech I work with
 
