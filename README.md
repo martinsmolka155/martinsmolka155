@@ -22,7 +22,7 @@ Senior backend developer based in Olomouc, CZ. 10+ years in Ruby on Rails, the l
 ## Production AI work (private)
 
 - **Veritel3** — RAG agent over contract and financial data (FastAPI, Claude API, ChromaDB). Production-deployed with strict data confidentiality constraints (no cloud LLMs for core SQL generation).
-- **Skillman.ai** — RAG chatbot over e-learning course content (Whisper transcription, ChromaDB, Gemini API), with animated mascot, multilingual TTS, and interactive onboarding.
+- **Skillman.ai** — RAG chatbot over e-learning course content (Whisper transcription, ChromaDB, Gemini API), multilingual TTS, and interactive onboarding.
 
 ## Reach me
 
