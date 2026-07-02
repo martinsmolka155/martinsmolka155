@@ -26,5 +26,5 @@ Senior backend developer based in Olomouc, CZ. 10+ years in Ruby on Rails, the l
 
 ## Reach me
 
-- LinkedIn: https://www.linkedin.com/in/martin-smolka-63b270a2/?skipRedirect=true
+- LinkedIn: https://www.linkedin.com/in/martin-smolka-63b270a2
 - Based in Olomouc, CZ — open to remote across EU.
